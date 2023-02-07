@@ -1,5 +1,5 @@
 
-# Journal App 📓
+# Journal App for Android 📓
 
 This is a simple Journal app/ To-do app. Set the title, date and time slot for an activity, add it in your list, and delete it once you are done with it, you can edit the entry too if you like.
 
